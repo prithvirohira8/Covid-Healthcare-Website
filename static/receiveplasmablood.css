@@ -1,0 +1,35 @@
+h1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-size: 3rem
+}
+.boxes{
+	display: flex;
+	background-color: rgb(255,233,233);
+	align-items: center;
+	justify-content: center;
+	/*text-align: center;
+*/    /*font-family: 'Comfortaa', cursive;*/
+    size: 0.625rem;
+    padding:15px;
+}
+h4{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+    font-family: 'Piazzolla', serif;
+	font-size: 2rem
+}
+.footer1{
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	font-size: 1.2rem;
+  }
+  
