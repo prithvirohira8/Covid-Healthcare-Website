@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs")
 // const bodyparser =require("body-parser")
 const app = express();
-const port = 8001;
+const port = 8000;
 
 // EXPRESS SPECIFIC STUFF
 app.use('/static', express.static('static')) // For serving static files
